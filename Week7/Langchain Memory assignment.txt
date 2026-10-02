@@ -1,0 +1,30 @@
+{
+    "conversationId": "conv_1790943621848_xg9q7twlt",
+    "messages": [
+        {
+            "role": "user",
+            "content": "Find Selenium testers with more than 5 years of experience"
+        },
+        {
+            "role": "assistant",
+            "content": "Based on the search results provided, here is the analysis for **Selenium testers with more than 5 years of experience**:\n\n### ✅ Recommended Candidate\n\n**1. Thangavelu**\n*   **Experience:** **6+ years** of professional experience in Selenium Automation Testing.\n*   **Additional Qualifications:** 3+ years as a QA Manager and 3+ years as an Agile Scrum Master.\n*   **Contact:**\n    *   Email: thangavelu24@gmail.com\n    *   Phone: 9962650009\n*   **Match Score:** 0.637\n\n### ❌ Other Candidates (Do Not Meet Experience Criteria)\n\nThe following candidates have Selenium experience but do **not** explicitly state more than 5 years of experience in the provided previews:\n\n*   **Harini S:** Explicitly states **3+ years** of experience.\n*   **Obbai, Pavithra V, Madhan Kumar D, Mohan V, Lakshmi S, Keerthana P, T. Samuel, T. Durairaj:** The previews list Selenium skills but do not specify total years of experience. Without explicit confirmation of >5 years, they are excluded from this specific filter.\n\n### Summary\nOnly **Thangavelu** clearly meets the criterion of having **more than 5 years** of experience in Selenium testing based on the available data."
+        },
+        {
+            "role": "user",
+            "content": "From those, filter only candidates only above 10 years"
+        },
+        {
+            "role": "assistant",
+            "content": "Based on your criteria (**candidates with above 10 years of experience**), 3 candidates match:\n\n1. **Thangavelu**\n   - **Experience:** 14+ Years\n   - **Key Skills:** Selenium, Java, TestNG, Postman, API Testing, SQL, Jenkins\n   - **Contact:** thangavelu24@gmail.com | 9962650009\n   - **Reasoning:** Meets the criteria with 14+ years of professional experience in Software Functional Testing.\n\n2. **T.Samuel**\n   - **Experience:** 13+ Years\n   - **Key Skills:** Selenium, Java, Cucumber, TestNG, Postman, API Testing, SQL, Jenkins\n   - **Contact:** t.samuel@example.com | 9750002477\n   - **Reasoning:** Meets the criteria with 13+ years of experience in the IT industry.\n\n3. **T. Durairaj**\n   - **Experience:** 13+ Years\n   - **Key Skills:** Selenium, Java, Cucumber, TestNG, Postman, API Testing, SQL, Jenkins\n   - **Contact:** t.durairaj@example.com | 8967894731\n   - **Reasoning:** Meets the criteria with 13+ years of experience in the IT industry.\n\nWould you like more details or another filter?"
+        },
+        {
+            "role": "user",
+            "content": "Now show me only the ones in Bangalore"
+        },
+        {
+            "role": "assistant",
+            "content": "Based on your criteria (**candidates in Bangalore**), no candidates from the current list match.\n\n- **Thangavelu**: Location not specified.\n- **T.Samuel**: Located in Chennai.\n- **T. Durairaj**: Located in Chennai.\n\nWould you like to broaden the location filter or review candidates from other cities?"
+        }
+    ],
+    "messageCount": 6
+}
